@@ -24,14 +24,21 @@ My GitHub Profile
 
 ##  📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUHLEBEMVELO57&show_icons=true&theme=radical)
+
+[![Github Streak](https://streak-stats.demolab.com/?user=BUHLEBEMVELO57&theme=radical)](https://git.io/streak-stats)
+
+
+---
+
 ##📌Projects I'm  Proud of
 
 Here are some pinned respositories worth checking out!
 
-###🔢[Calculator App](https://github.com/buhlebemvelo57/calculator-repo-name)
+###🔢[Calculator App](https://github.com/BUHLEBEMVELO57/calculator-repo-name)
 A clean, responsive calculator that  performs basic arithmetic operations. Built using HTML, CSS, and JavaScript.
 
-###🐾 [Zoo Website](https://github.com/buhlebemvelo57/zoo-website-repo-name)
+###🐾 [Zoo Website](https://github.com/BUHLEBEMVELO57/zoo-website-repo-name)
 A fun and colorful Zoo-themed website showcasing animals, habitats,and interactive info. Built with HTML and CSS
 
 ---
